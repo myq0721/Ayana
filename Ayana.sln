@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{D7D03DC5-8086-402F-AA9D-4E10469A9472}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ayana", "Ayana\Ayana.vcxproj", "{0AF5E515-00BF-4E41-9B7D-00CFEC56FBF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AF5E515-00BF-4E41-9B7D-00CFEC56FBF8}.Debug|x64.ActiveCfg = Debug|x64
+		{0AF5E515-00BF-4E41-9B7D-00CFEC56FBF8}.Debug|x64.Build.0 = Debug|x64
+		{0AF5E515-00BF-4E41-9B7D-00CFEC56FBF8}.Release|x64.ActiveCfg = Release|x64
+		{0AF5E515-00BF-4E41-9B7D-00CFEC56FBF8}.Release|x64.Build.0 = Release|x64
+		{D7D03DC5-8086-402F-AA9D-4E10469A9472}.Debug|x64.ActiveCfg = Debug|x64
+		{D7D03DC5-8086-402F-AA9D-4E10469A9472}.Debug|x64.Build.0 = Debug|x64
+		{D7D03DC5-8086-402F-AA9D-4E10469A9472}.Release|x64.ActiveCfg = Release|x64
+		{D7D03DC5-8086-402F-AA9D-4E10469A9472}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB10015-D63A-4458-B932-B93E7E42704A}
+	EndGlobalSection
+EndGlobal
